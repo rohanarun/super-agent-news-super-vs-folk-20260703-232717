@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[tradingview.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGtRZUllbXdTTHpwYktZTU1fQmRyVzFDdXAwczJVdXJhS01wc0FlbFR2Uzk1LS1LYkZDdnJyWjFyRUcwT3BHTHVKVGhIVS1iT0htUTRqeEctVHZSSHNycUxLSXFwOWJOU05FcmQxaWtNV3IzdWszbXZFMkNmV01wT08wSjVXZVlONjRBNlBsS3QyNHpUdC1kMi1obkZZdWZvZEJvMjYtdVZiVi1oWHFjdG1LTDRFNDFOeTdhWGlyaVp5aFlBLW1oVkoxSQ)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF)",
+    "[msn.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=2.4; AIDA=pass; bento_density=grid-auto-flow:dense; competitors_sweep=pass; CTA_contrast=pass",
+  "generated_at": "2026-07-03T23:27:23.705021+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison of Super and Folk for people evaluating personal AI agents. Folk fits lightweight automation and niche workflows. Super is built for durable computer-use workflows, with agents that operate real computers and reuse a computer-use cache so repeated work gets cheaper and more reliable over time."
+}
